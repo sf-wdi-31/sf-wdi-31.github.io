@@ -1,0 +1,10 @@
+.hero {
+  height: 100vh;
+  min-height: 800px;
+}
+
+.icon {
+  width: 30%;
+  min-width: 200px;
+  max-width: 300px;
+}
