@@ -8,3 +8,15 @@
   min-width: 200px;
   max-width: 300px;
 }
+
+#banner {
+	background-color: #7f22c3;
+}
+
+#banner .button.special {
+	background-color: #786efb;
+}
+
+#banner .button.special:hover {
+	background-color: #ff7474;
+}
