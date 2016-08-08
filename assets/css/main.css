@@ -9,6 +9,10 @@
   max-width: 300px;
 }
 
+.cohort-name {
+	font-family: serif;
+}
+
 #banner {
 	background-color: #7f22c3;
 }
